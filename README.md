@@ -6,6 +6,8 @@
 
 Welcome to my GitHub profile! I'm a passionate backend developer who loves creating robust and scalable solutions. I'm currently studying **Computer Science** at Universidad Francisco José de Caldas, halfway through my degree. I really love expanding my knowledge in both back-end and front-end development. I have experience as a full-stack web developer and my goal is to strengthen my development skills and explore new technologies. I'm very enthusiast in diving deep into the realms of Software Development!
 
+Beyond writing clean and efficient code, I bring a problem-solving mindset, strong cross-team communication skills, adaptability to change, and a clear focus on delivering meaningful value. I'm driven to contribute to projects where technology, creativity, and human insight come together to build impactful solutions.
+
 ### 💻 About Me
 
 - 🔭 I'm currently working on backend development projects and APIs
