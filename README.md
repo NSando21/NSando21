@@ -61,7 +61,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves creat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NSando21&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSando21&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🌟 Recent Contributions
