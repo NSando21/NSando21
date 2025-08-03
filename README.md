@@ -64,35 +64,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves creat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSando21&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3 align="center">🚀 REST API</h3>
-      <p align="center">
-        A robust REST API built with Node.js, Express and MongoDB
-      </p>
-      <p align="center">
-        <a href="https://github.com/NSando21/rest-api" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align"center">
-      <h3 align="center">⚡ Nest.js Microservice</h3>
-      <p align="center">
-        Microservice architecture using Nest.js and PostgreSQL
-      </p>
-      <p align="center">
-        <a href="https://github.com/NSando21/nestjs-microservice" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ### 🌟 Recent Contributions
 
 <p align="center">
